@@ -6,3 +6,6 @@ puts "Tom Ivey"
 puts "Louie Findlater"
 puts "Billy Brown"
 puts "Darth Vader"
+print "Overall we have "
+print 11
+puts " great students"
